@@ -1,5 +1,8 @@
 # Video
-Video without audio
+This repository have 2 files: 
+1- Video without audio (Capstone_Video_IronMaidem)
+2- Video with audio (Capastone_video_With_AUDIO)
+
 ## Script
 
 This is the presentation of the Capstone Project for the Post Graduation in IT Solutions at Humber College.
